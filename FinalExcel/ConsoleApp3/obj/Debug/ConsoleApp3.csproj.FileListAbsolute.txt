@@ -1,0 +1,14 @@
+C:\Users\765401\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\765401\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\765401\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\765401\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\765401\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\765401\Documents\Visual Studio 2017\Projects\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\obj\Debug\ConsoleApp3.csprojResolveAssemblyReference.cache
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\bin\Debug\EPPlus.dll
+C:\Users\765401\Documents\Visual Studio 2017\Projects\FinalExcel\ConsoleApp3\bin\Debug\EPPlus.xml
